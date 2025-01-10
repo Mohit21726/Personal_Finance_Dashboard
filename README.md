@@ -160,6 +160,6 @@ For future improvement, we can consider the following ideas:
 
 <!-- Image References -->
 
-[ExecSumm]: images/executive_summary.png "Main summary of data"
-[Granular]: images/granular_info.png "Second dashboard for detailed inormation"
+[ExecSumm]: images/First.png "Main summary of data"
+[Granular]: images/Second.png "Second dashboard for detailed inormation"
 
