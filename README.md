@@ -44,7 +44,6 @@ Here are the dashboards that I created. If you would like to actually play aroun
 - Windows 10 Machine
 - Microsoft PowerBI Desktop (v2.93)
 - Microsoft Excel
-- Apple iPad (7th Gen) and pencil
 
 
 ## Overview of Microsoft Power BI
