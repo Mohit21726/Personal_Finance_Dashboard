@@ -148,7 +148,7 @@ For future improvement, we can consider the following ideas:
 
 ## Author
 
-- **AJ Singh** (https://github.com/aj112358/)
+- **Mohit Nimje** (https://github.com/Mohit21726/)
 
 
 ## Acknowledgements
@@ -162,5 +162,4 @@ For future improvement, we can consider the following ideas:
 
 [ExecSumm]: images/executive_summary.png "Main summary of data"
 [Granular]: images/granular_info.png "Second dashboard for detailed inormation"
-[DashPlan]: images/dashboard_planning.jpg "My original layout for the dashboards"
-[Questions]: images/investigative_questions.jpg "The original questions I wanted answers to"
+
