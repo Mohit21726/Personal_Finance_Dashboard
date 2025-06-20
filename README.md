@@ -109,7 +109,7 @@ The main visuals I used were 'slicers'. I created calendar slicers for overall d
 
 Using PowerBI I was able to visualize my purchases data in an interactive way. This allowed me to drill deeper into my spending behaviour and with this information I can now be more conscientious of what I choose to spend my money on.
 
-
+<!--
 ## How You Can View My Power BI Dashboards
 
 For those interested in actually playing around with the dashboard, here are some detailed steps to help you do so:
@@ -156,7 +156,7 @@ For future improvement, we can consider the following ideas:
 - All the kind and patient cashiers who took the time to print out a receipt for me.
 - Viewers of my GitHub page...Thanks for visiting!
 
-
+-->
 <!-- Image References -->
 
 [ExecSumm]: images/First.png "Main summary of data"
