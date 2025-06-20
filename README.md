@@ -72,7 +72,7 @@ This is the main Power BI file containing the finance dashboards.
 
 ## Data Collection Methodology
 
-I collected this data by keeping all purchase receipts and inputting the data manually into Excel. The information I kept track of was: Date, Item Category, Price, Location, Comment.
+I collected this excel on internet. The information kept track of was: Date, Item Category, Price, Location, Comment.
 
 In order to import this data into PowerBI, it was quite the process. Since the data was contained in *multiple Excel sheets in the same Excel workbook*, I first had to separate the sheets into their own Excel workbook - this turned out to be the easiest avenue to importing the data.
 
